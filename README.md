@@ -1,3 +1,5 @@
 ![Bonded GIF](images/bonded.gif)
 
-# Bonded official website
+# BONDED — Bangladesh's Ultimate Chill, Game & Creative Zone
+
+Static landing page for the **BONDED** Discord community — a Bangladeshi server where gamers, artists, music lovers, photographers, and chill souls come together.
